@@ -9,3 +9,4 @@
 - 2025-01-07 17:00:00 docs: document routing API
 - 2025-01-09 10:45:00 feat: create database connection handler
 - 2025-01-09 15:20:00 fix: handle db timeout edge cases
+- 2025-01-11 09:00:00 refactor: extract config into separate module
