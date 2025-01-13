@@ -11,3 +11,4 @@
 - 2025-01-09 15:20:00 fix: handle db timeout edge cases
 - 2025-01-11 09:00:00 refactor: extract config into separate module
 - 2025-01-11 14:10:00 chore: update dependencies to latest stable
+- 2025-01-13 10:30:00 feat: add user authentication module
