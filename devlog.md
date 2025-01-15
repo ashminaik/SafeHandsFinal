@@ -14,3 +14,4 @@
 - 2025-01-13 10:30:00 feat: add user authentication module
 - 2025-01-13 15:00:00 feat: implement JWT token generation
 - 2025-01-13 18:20:00 test: add auth flow integration tests
+- 2025-01-15 09:45:00 fix: resolve token expiry validation bug
