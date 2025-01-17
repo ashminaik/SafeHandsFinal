@@ -16,3 +16,4 @@
 - 2025-01-13 18:20:00 test: add auth flow integration tests
 - 2025-01-15 09:45:00 fix: resolve token expiry validation bug
 - 2025-01-15 13:30:00 refactor: clean up auth middleware
+- 2025-01-17 10:00:00 feat: build user registration endpoint
