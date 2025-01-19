@@ -19,3 +19,4 @@
 - 2025-01-17 10:00:00 feat: build user registration endpoint
 - 2025-01-17 14:50:00 feat: add input validation on register route
 - 2025-01-19 11:15:00 fix: sanitize email field before DB insert
+- 2025-01-19 16:00:00 test: write tests for registration flow
