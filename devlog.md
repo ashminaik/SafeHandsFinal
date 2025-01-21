@@ -21,3 +21,4 @@
 - 2025-01-19 11:15:00 fix: sanitize email field before DB insert
 - 2025-01-19 16:00:00 test: write tests for registration flow
 - 2025-01-21 09:20:00 feat: implement password hashing with bcrypt
+- 2025-01-21 13:45:00 refactor: move hash logic to utils
