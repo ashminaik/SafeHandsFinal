@@ -23,3 +23,4 @@
 - 2025-01-21 09:20:00 feat: implement password hashing with bcrypt
 - 2025-01-21 13:45:00 refactor: move hash logic to utils
 - 2025-01-22 10:30:00 chore: add pre-commit linting hooks
+- 2025-01-22 15:15:00 fix: fix linter warnings in auth module
