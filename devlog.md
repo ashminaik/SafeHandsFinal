@@ -24,3 +24,4 @@
 - 2025-01-21 13:45:00 refactor: move hash logic to utils
 - 2025-01-22 10:30:00 chore: add pre-commit linting hooks
 - 2025-01-22 15:15:00 fix: fix linter warnings in auth module
+- 2025-01-24 09:00:00 feat: create user profile endpoint
