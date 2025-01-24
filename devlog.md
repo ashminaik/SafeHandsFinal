@@ -26,3 +26,4 @@
 - 2025-01-22 15:15:00 fix: fix linter warnings in auth module
 - 2025-01-24 09:00:00 feat: create user profile endpoint
 - 2025-01-24 12:30:00 feat: add avatar upload support
+- 2025-01-24 17:00:00 fix: handle missing avatar gracefully
