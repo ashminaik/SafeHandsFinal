@@ -28,3 +28,4 @@
 - 2025-01-24 12:30:00 feat: add avatar upload support
 - 2025-01-24 17:00:00 fix: handle missing avatar gracefully
 - 2025-01-26 10:45:00 refactor: unify API response format
+- 2025-01-26 15:20:00 docs: update API docs with new response schema
