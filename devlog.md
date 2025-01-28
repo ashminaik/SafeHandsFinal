@@ -30,3 +30,4 @@
 - 2025-01-26 10:45:00 refactor: unify API response format
 - 2025-01-26 15:20:00 docs: update API docs with new response schema
 - 2025-01-28 09:30:00 feat: add rate limiting middleware
+- 2025-01-28 14:00:00 test: simulate rate limit scenarios in tests
