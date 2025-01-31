@@ -33,3 +33,4 @@
 - 2025-01-28 14:00:00 test: simulate rate limit scenarios in tests
 - 2025-01-29 11:00:00 fix: tune rate limit thresholds
 - 2025-01-29 16:30:00 chore: update changelog for v0.2
+- 2025-01-31 10:00:00 feat: add logging module with log levels
