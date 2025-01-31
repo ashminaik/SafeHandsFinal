@@ -34,3 +34,4 @@
 - 2025-01-29 11:00:00 fix: tune rate limit thresholds
 - 2025-01-29 16:30:00 chore: update changelog for v0.2
 - 2025-01-31 10:00:00 feat: add logging module with log levels
+- 2025-01-31 14:45:00 refactor: replace console.log with logger
