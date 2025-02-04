@@ -39,3 +39,4 @@
 - 2025-02-02 13:30:00 fix: fix session not persisting across requests
 - 2025-02-04 10:00:00 feat: add Redis cache integration
 - 2025-02-04 15:00:00 test: cache hit/miss unit tests
+- 2025-02-04 17:30:00 docs: document caching strategy
