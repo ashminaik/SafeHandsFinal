@@ -42,3 +42,4 @@
 - 2025-02-04 17:30:00 docs: document caching strategy
 - 2025-02-06 09:45:00 feat: build product listing endpoint
 - 2025-02-06 14:20:00 feat: add pagination to product list
+- 2025-02-08 10:30:00 fix: off-by-one error in pagination logic
