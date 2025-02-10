@@ -44,3 +44,4 @@
 - 2025-02-06 14:20:00 feat: add pagination to product list
 - 2025-02-08 10:30:00 fix: off-by-one error in pagination logic
 - 2025-02-08 15:00:00 refactor: extract pagination to shared utility
+- 2025-02-10 09:00:00 feat: add product search with filters
