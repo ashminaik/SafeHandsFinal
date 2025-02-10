@@ -45,3 +45,4 @@
 - 2025-02-08 10:30:00 fix: off-by-one error in pagination logic
 - 2025-02-08 15:00:00 refactor: extract pagination to shared utility
 - 2025-02-10 09:00:00 feat: add product search with filters
+- 2025-02-10 13:45:00 test: search filter integration tests
