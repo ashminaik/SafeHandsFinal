@@ -47,3 +47,4 @@
 - 2025-02-10 09:00:00 feat: add product search with filters
 - 2025-02-10 13:45:00 test: search filter integration tests
 - 2025-02-11 10:15:00 fix: handle empty search results correctly
+- 2025-02-11 14:30:00 chore: clean up unused imports across modules
