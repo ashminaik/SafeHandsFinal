@@ -52,3 +52,4 @@
 - 2025-02-13 13:00:00 feat: add add-to-cart and remove-from-cart routes
 - 2025-02-13 17:15:00 test: cart operations unit tests
 - 2025-02-15 10:45:00 fix: cart total miscalculation on discount
+- 2025-02-15 15:30:00 refactor: simplify cart state logic
