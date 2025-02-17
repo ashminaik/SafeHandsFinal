@@ -54,3 +54,4 @@
 - 2025-02-15 10:45:00 fix: cart total miscalculation on discount
 - 2025-02-15 15:30:00 refactor: simplify cart state logic
 - 2025-02-17 09:15:00 feat: integrate payment gateway stub
+- 2025-02-17 14:00:00 feat: add order creation flow
