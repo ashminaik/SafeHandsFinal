@@ -57,3 +57,4 @@
 - 2025-02-17 14:00:00 feat: add order creation flow
 - 2025-02-17 17:45:00 test: mock payment flow in test suite
 - 2025-02-19 10:00:00 fix: order status not updating after payment
+- 2025-02-19 14:30:00 docs: document order lifecycle states
