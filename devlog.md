@@ -59,3 +59,4 @@
 - 2025-02-19 10:00:00 fix: order status not updating after payment
 - 2025-02-19 14:30:00 docs: document order lifecycle states
 - 2025-02-21 09:30:00 feat: add email notification on order placed
+- 2025-02-21 13:15:00 feat: create email template system
