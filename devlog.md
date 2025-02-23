@@ -61,3 +61,4 @@
 - 2025-02-21 09:30:00 feat: add email notification on order placed
 - 2025-02-21 13:15:00 feat: create email template system
 - 2025-02-21 16:45:00 test: email dispatch unit tests
+- 2025-02-23 10:00:00 fix: email subject line encoding issue
