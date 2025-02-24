@@ -64,3 +64,4 @@
 - 2025-02-23 10:00:00 fix: email subject line encoding issue
 - 2025-02-23 14:45:00 refactor: decouple email logic from order module
 - 2025-02-24 09:45:00 chore: bump nodemailer to v6
+- 2025-02-24 13:30:00 feat: add admin dashboard base layout
