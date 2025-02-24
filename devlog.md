@@ -63,3 +63,4 @@
 - 2025-02-21 16:45:00 test: email dispatch unit tests
 - 2025-02-23 10:00:00 fix: email subject line encoding issue
 - 2025-02-23 14:45:00 refactor: decouple email logic from order module
+- 2025-02-24 09:45:00 chore: bump nodemailer to v6
