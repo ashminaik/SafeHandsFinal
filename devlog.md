@@ -67,3 +67,4 @@
 - 2025-02-24 13:30:00 feat: add admin dashboard base layout
 - 2025-02-24 17:00:00 feat: admin user list view
 - 2025-02-26 10:15:00 feat: admin order management table
+- 2025-02-26 14:30:00 fix: admin table not sorting by date correctly
