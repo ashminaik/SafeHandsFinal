@@ -70,3 +70,4 @@
 - 2025-02-26 14:30:00 fix: admin table not sorting by date correctly
 - 2025-02-26 17:15:00 test: admin panel route access tests
 - 2025-02-28 09:00:00 feat: add role-based access control
+- 2025-02-28 13:45:00 test: RBAC middleware tests
