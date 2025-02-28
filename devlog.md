@@ -71,3 +71,4 @@
 - 2025-02-26 17:15:00 test: admin panel route access tests
 - 2025-02-28 09:00:00 feat: add role-based access control
 - 2025-02-28 13:45:00 test: RBAC middleware tests
+- 2025-02-28 17:30:00 docs: update auth docs with RBAC section
