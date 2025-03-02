@@ -72,3 +72,4 @@
 - 2025-02-28 09:00:00 feat: add role-based access control
 - 2025-02-28 13:45:00 test: RBAC middleware tests
 - 2025-02-28 17:30:00 docs: update auth docs with RBAC section
+- 2025-03-02 09:30:00 feat: implement product review system
