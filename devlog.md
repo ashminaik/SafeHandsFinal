@@ -75,3 +75,4 @@
 - 2025-03-02 09:30:00 feat: implement product review system
 - 2025-03-02 14:00:00 feat: add star rating component logic
 - 2025-03-02 17:15:00 test: review submission tests
+- 2025-03-04 10:00:00 fix: reviews not loading on product page
