@@ -77,3 +77,4 @@
 - 2025-03-02 17:15:00 test: review submission tests
 - 2025-03-04 10:00:00 fix: reviews not loading on product page
 - 2025-03-04 14:30:00 refactor: normalize review data model
+- 2025-03-06 09:15:00 feat: add wishlist feature
