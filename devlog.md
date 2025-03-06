@@ -79,3 +79,4 @@
 - 2025-03-04 14:30:00 refactor: normalize review data model
 - 2025-03-06 09:15:00 feat: add wishlist feature
 - 2025-03-06 13:00:00 feat: sync wishlist with user account
+- 2025-03-06 16:45:00 test: wishlist CRUD tests
