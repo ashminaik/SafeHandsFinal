@@ -80,3 +80,4 @@
 - 2025-03-06 09:15:00 feat: add wishlist feature
 - 2025-03-06 13:00:00 feat: sync wishlist with user account
 - 2025-03-06 16:45:00 test: wishlist CRUD tests
+- 2025-03-08 10:30:00 fix: wishlist duplicate entry bug
