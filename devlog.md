@@ -82,3 +82,4 @@
 - 2025-03-06 16:45:00 test: wishlist CRUD tests
 - 2025-03-08 10:30:00 fix: wishlist duplicate entry bug
 - 2025-03-08 15:00:00 chore: reorganize folder structure for scalability
+- 2025-03-10 09:00:00 feat: add discount coupon system
