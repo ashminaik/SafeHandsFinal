@@ -86,3 +86,4 @@
 - 2025-03-10 13:30:00 feat: validate coupon on checkout
 - 2025-03-10 17:00:00 test: coupon edge cases in test suite
 - 2025-03-12 10:45:00 fix: expired coupons still applying discount
+- 2025-03-12 14:15:00 refactor: move coupon logic to service layer
