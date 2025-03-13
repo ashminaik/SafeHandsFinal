@@ -88,3 +88,4 @@
 - 2025-03-12 10:45:00 fix: expired coupons still applying discount
 - 2025-03-12 14:15:00 refactor: move coupon logic to service layer
 - 2025-03-13 09:30:00 docs: document coupon API endpoints
+- 2025-03-13 14:00:00 chore: update .env.example with new keys
