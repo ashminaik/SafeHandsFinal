@@ -92,3 +92,4 @@
 - 2025-03-15 10:00:00 feat: build analytics event tracker
 - 2025-03-15 14:30:00 feat: track page views and session duration
 - 2025-03-15 17:45:00 test: analytics event firing tests
+- 2025-03-17 09:15:00 fix: duplicate events on page reload
