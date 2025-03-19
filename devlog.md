@@ -95,3 +95,4 @@
 - 2025-03-17 09:15:00 fix: duplicate events on page reload
 - 2025-03-17 13:45:00 refactor: batch analytics events before send
 - 2025-03-19 10:30:00 feat: add dark mode toggle
+- 2025-03-19 14:00:00 feat: persist theme preference in localStorage
