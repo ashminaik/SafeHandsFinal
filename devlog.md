@@ -97,3 +97,4 @@
 - 2025-03-19 10:30:00 feat: add dark mode toggle
 - 2025-03-19 14:00:00 feat: persist theme preference in localStorage
 - 2025-03-19 17:15:00 fix: theme flicker on initial load
+- 2025-03-21 09:00:00 refactor: extract theme logic into custom hook
