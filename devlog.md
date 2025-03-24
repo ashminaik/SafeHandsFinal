@@ -104,3 +104,4 @@
 - 2025-03-23 14:45:00 fix: lazy load not working in Safari
 - 2025-03-24 09:30:00 perf: compress static assets with gzip
 - 2025-03-24 13:00:00 perf: enable HTTP/2 on server config
+- 2025-03-24 16:30:00 test: load time benchmarks
