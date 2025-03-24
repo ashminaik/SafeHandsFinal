@@ -102,3 +102,4 @@
 - 2025-03-21 16:00:00 docs: add theming section to README
 - 2025-03-23 10:15:00 feat: implement lazy loading for images
 - 2025-03-23 14:45:00 fix: lazy load not working in Safari
+- 2025-03-24 09:30:00 perf: compress static assets with gzip
