@@ -108,3 +108,4 @@
 - 2025-03-26 10:00:00 feat: add multi-language support i18n
 - 2025-03-26 14:15:00 feat: add EN and ES locale files
 - 2025-03-26 17:30:00 test: i18n string resolution tests
+- 2025-03-28 09:45:00 fix: missing translation keys fallback
