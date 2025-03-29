@@ -110,3 +110,4 @@
 - 2025-03-26 17:30:00 test: i18n string resolution tests
 - 2025-03-28 09:45:00 fix: missing translation keys fallback
 - 2025-03-28 14:00:00 refactor: consolidate i18n config
+- 2025-03-29 10:30:00 chore: final dependency audit and cleanup
