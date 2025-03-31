@@ -115,3 +115,4 @@
 - 2025-03-29 17:00:00 chore: version bump to v1.0.0
 - 2025-03-31 10:00:00 feat: add health check endpoint
 - 2025-03-31 13:30:00 test: end-to-end smoke tests for v1.0
+- 2025-03-31 16:45:00 chore: tag v1.0.0 release
